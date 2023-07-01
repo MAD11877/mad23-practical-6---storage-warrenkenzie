@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">madpractical</string>
+    <string name="nav_name">MADpractical</string>
+    <string name="Lorem_Ipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</string>
+    <string name="Follow_btn">FOLLOW</string>
+    <string name="toggle_button_off">UNFOLLOW</string>
+    <string name="MESSAGE_btn">MESSAGE</string>
+</resources>
